@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Splitkaro",
+    "slug": "Splitkaro",
+    "version": "1.0.0",
+    "android": {
+      "permissions": ["READ_SMS", "RECEIVE_SMS"]
+    }
+  }
+}
